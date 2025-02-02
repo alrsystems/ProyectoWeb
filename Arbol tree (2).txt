@@ -33,6 +33,6 @@ Reinicia Visual Studio: A veces, reiniciar el entorno de desarrollo puede resolv
 
 Prueba con un nuevo proyecto: Crea un nuevo proyecto WPF y agrega los archivos uno por uno. Esto puede ayudarte a identificar si hay algún problema específico con tu configuración actual.
 
-* Tambien prueba con empezar un nuevo proyecto, pero lo mas importante no pierdas la calma.
+
    
   	
