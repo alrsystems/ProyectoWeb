@@ -1,0 +1,36 @@
+
+Solución "WpfPractica00MVVM"
+--WpfPractica00MVVM
+  -Properties
+  -Referencias
+  --BD
+    -Bd.cs
+  --Commands
+    -RelayCommands.cs
+  --Helpers
+    -Styles.xaml
+  --Model
+    -UserModel
+  --View
+    -RecordsView.xaml
+	-RecordsView.cs
+  --Viewmodel
+     -UserViewModel.cs
+     -ViewModelBase.cs
+  .editorconfig
+   App.config
+   -App.xaml.cs
+     -App.xamel.cs
+   -MainWindow.xaml
+     packages.config
+
+
+Verifica las referencias del proyecto: Asegúrate de que todos los archivos están correctamente referenciados en tu proyecto. A veces, los archivos pueden no estar incluidos en el proyecto, lo que causa errores de espacio de nombres.
+
+Revisa el archivo .csproj: Abre el archivo del proyecto (.csproj) y asegúrate de que todos los archivos están listados correctamente. Debería haber entradas para RecordsView.xaml, RecordsView.xaml.cs, UserViewModel.cs, etc.
+
+Reinicia Visual Studio: A veces, reiniciar el entorno de desarrollo puede resolver problemas de caché y referencias.
+
+Prueba con un nuevo proyecto: Crea un nuevo proyecto WPF y agrega los archivos uno por uno. Esto puede ayudarte a identificar si hay algún problema específico con tu configuración actual.
+   
+  	
